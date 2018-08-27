@@ -10,7 +10,7 @@ bio: 'CS Phd at Princeton interestedin in ML and Precision Medicine.'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://astrzalk.github.io
+url: https://astrzalk.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

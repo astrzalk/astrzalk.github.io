@@ -1,16 +1,16 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Alexander Strzalkowski
+bio: 'CS Phd at Princeton interestedin in ML and Precision Medicine.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+#description: A blog about Physics and teaching science
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
+url: http://astrzalk.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+#twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+#github: NivedithaRam
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+#email: niveditha.ramasubramanian@stonybrook.edu
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    astrzalk:
+        name: Alexander Strzalkowski
+        bio: TODO.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        
 
 
 # do you want a larger site? change the option below

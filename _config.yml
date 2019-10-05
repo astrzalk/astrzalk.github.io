@@ -1,6 +1,6 @@
 # main text of home
 name: Alexander Strzalkowski
-bio: 'CS Phd at Princeton interested in in ML and Precision Medicine.'
+bio: 'CS Phd at Princeton interested in ML and Precision Medicine.'
 
 # twitter summary info
 #description: A blog about Physics and teaching science
@@ -86,7 +86,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
